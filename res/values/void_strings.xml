@@ -96,4 +96,8 @@
     <!-- Data usage info in QS footer -->
     <string name="qs_footer_datausage_title">Daily data usage in QS footer</string>
     <string name="qs_footer_datausage_summary">Display daily data usage summary in quick settings footer</string>
+
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Pure black</string>
+    <string name="black_bg_summary">Pure black background for dark theme</string>
 </resources>
