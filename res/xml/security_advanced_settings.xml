@@ -105,6 +105,13 @@
         android:summary="@string/confirm_sim_deletion_description"
         settings:controller="com.android.settings.security.ConfirmSimDeletionPreferenceController" />
 
+    <com.android.settings.custom.preference.GlobalSettingSwitchPreference
+        android:order="91"
+        android:key="pm_downgrade_allowed"
+        android:title="@string/app_downgrade_title"
+        android:summary="@string/app_downgrade_summary"
+        android:defaultValue="false"/>
+
     <!-- work profile security section -->
     <PreferenceCategory
         android:order="100"
