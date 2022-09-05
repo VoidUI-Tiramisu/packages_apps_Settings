@@ -52,4 +52,9 @@
     <string name="pattern_custom">Custom</string>
     <string name="custom_vibration_pattern_title">Custom pattern</string>
     <string name="custom_vibration_pattern_summary">Set a custom vibration pattern</string>
+
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+    <string name="app_volume_title">Per-app volume control</string>
+    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
 </resources>
