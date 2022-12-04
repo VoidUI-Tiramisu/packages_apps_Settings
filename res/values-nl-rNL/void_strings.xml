@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI Release Versie</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Apparaat onderhouder</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Game Modus</string>
+    <string name="game_space_summary">Verbeter je spelbeleving</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Vlag voor beveiligd venster negeren</string>
+    <string name="ignore_window_secure_summary">Schermopname- en schermopnamelimieten verwijderen voor alle apps. Dit kan in sommige gevallen handig zijn, maar kan leiden tot privacylekken.</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Vervang heads-up notificatie met kleinere en minder invasieve versie van herontworpen ticker</string>
+    <string name="reticker_colored_title">Gebruik de gekleurde achtergrond van de app</string>
+    <string name="reticker_colored_summary">Herticker achtergrondkleur vervangen door hoofdkleur van app notificatie</string>
+    <!-- Application downgrade -->
+    <string name="app_downgrade_title">Toestaan dat applicatie downgrade</string>
+    <string name="app_downgrade_summary">Dit stelt je in staat om applicaties te downgraden. Dit kan leiden tot crashes en data-corruptie.</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Navigatiebalk</string>
+    <string name="immersive_navigation_title">Immersieve navigatie</string>
+    <string name="immersive_navigation_summary">Verberg de gebarenpil en de opvulling van de navigatiebalk.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Volledig scherm apps</string>
+    <string name="display_cutout_force_fullscreen_summary">Dwing apps om notch ruimte te negeren</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Geen apps</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Herstart de applicatie om de wijzigingen toe te passen.</string>
+</resources>
