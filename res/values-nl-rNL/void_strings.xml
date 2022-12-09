@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Dwing apps om notch ruimte te negeren</string>
     <string name="display_cutout_force_fullscreen_no_apps">Geen apps</string>
     <string name="display_cutout_force_fullscreen_restart_app">Herstart de applicatie om de wijzigingen toe te passen.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Zwarte achtergrond</string>
+    <string name="black_bg_summary">Gebruik een absoluut zwarte achtergrond wanneer de donkere modus is ingeschakeld</string>
 </resources>

@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Принудительное игнорирование выреза экрана</string>
     <string name="display_cutout_force_fullscreen_no_apps">Нет приложений</string>
     <string name="display_cutout_force_fullscreen_restart_app">Пожалуйста, перезапустите приложение, чтобы изменения вступили в силу.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Черный фон</string>
+    <string name="black_bg_summary">Используйте абсолютно черный фон, когда включен темный режим</string>
 </resources>

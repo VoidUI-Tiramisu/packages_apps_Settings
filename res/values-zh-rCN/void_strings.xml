@@ -21,14 +21,17 @@
     <string name="reticker_colored_summary">使用通知应用的主颜色替换 reTicker 背景颜色</string>
     <!-- Application downgrade -->
     <string name="app_downgrade_title">允许应用程序降级</string>
-    <string name="app_downgrade_summary">这允许您降级应用程序。请注意这可能导致崩溃和数据损坏。</string>
+    <string name="app_downgrade_summary">允许您降级应用程序。请注意，这可能导致崩溃和数据损坏。</string>
     <!-- Immersive Navigation -->
     <string name="gesture_navbar_category_title">导航栏</string>
-    <string name="immersive_navigation_title">沉浸式导航</string>
-    <string name="immersive_navigation_summary">隐藏手势丸和导航栏的衬垫。</string>
+    <string name="immersive_navigation_title">沉浸式导航栏</string>
+    <string name="immersive_navigation_summary">隐藏手势药丸和导航栏的垫高。</string>
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">全屏应用</string>
     <string name="display_cutout_force_fullscreen_summary">应用强制忽略屏幕开孔</string>
     <string name="display_cutout_force_fullscreen_no_apps">没有应用</string>
     <string name="display_cutout_force_fullscreen_restart_app">请重新启动应用程序以应用更改。</string>
+    <!-- Black background -->
+    <string name="black_bg_title">黑色背景</string>
+    <string name="black_bg_summary">当黑暗模式开启时，使用绝对的黑色背景</string>
 </resources>

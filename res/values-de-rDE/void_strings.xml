@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Apps zwingen, die Notch zu ignorieren</string>
     <string name="display_cutout_force_fullscreen_no_apps">Keine Apps</string>
     <string name="display_cutout_force_fullscreen_restart_app">Bitte starten Sie die Anwendung neu, um die Änderungen zu übernehmen.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Schwarzer Hintergrund</string>
+    <string name="black_bg_summary">Einen absolut schwarzen Hintergrund verwenden, wenn der Dunkelmodus aktiviert ist</string>
 </resources>

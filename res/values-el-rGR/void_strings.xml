@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Εξαναγκασμένη αγνόηση εγκοπής στην οθόνη από τις εφαρμογές</string>
     <string name="display_cutout_force_fullscreen_no_apps">Δεν υπάρχουν εφαρμογές</string>
     <string name="display_cutout_force_fullscreen_restart_app">Παρακαλώ επανεκκινήστε την εφαρμογή για να εφαρμόσετε τις αλλαγές.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Μαύρο φόντο</string>
+    <string name="black_bg_summary">Χρήση απόλυτου μαύρου φόντου όταν είναι ενεργοποιημένη η σκοτεινή λειτουργία</string>
 </resources>

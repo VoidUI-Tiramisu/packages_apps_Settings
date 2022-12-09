@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Vynucení ignorování výřezu aplikacemi</string>
     <string name="display_cutout_force_fullscreen_no_apps">Žádné aplikace</string>
     <string name="display_cutout_force_fullscreen_restart_app">Chcete-li změny uplatnit, restartujte aplikaci.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Černé pozadí</string>
+    <string name="black_bg_summary">Použití absolutně černého pozadí při zapnutém tmavém režimu</string>
 </resources>

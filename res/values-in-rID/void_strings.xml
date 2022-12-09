@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Paksa aplikasi untuk mengabaikan ruang takik</string>
     <string name="display_cutout_force_fullscreen_no_apps">Tidak ada aplikasi</string>
     <string name="display_cutout_force_fullscreen_restart_app">Harap mulai ulang aplikasi untuk menerapkan perubahan.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Latar belakang hitam</string>
+    <string name="black_bg_summary">Gunakan latar belakang hitam absolut ketika mode gelap aktif</string>
 </resources>

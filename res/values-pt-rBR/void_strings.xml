@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Forçar aplicativos a ignorar o espaço do notch</string>
     <string name="display_cutout_force_fullscreen_no_apps">Nenhum aplicativo</string>
     <string name="display_cutout_force_fullscreen_restart_app">Por favor, reinicie o aplicativo para aplicar as alterações.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Fundo preto</string>
+    <string name="black_bg_summary">Use um fundo preto absoluto quando o modo escuro estiver ligado</string>
 </resources>

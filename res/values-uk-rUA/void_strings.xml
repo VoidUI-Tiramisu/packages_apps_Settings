@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Змусити додатки ігнорувати виріз</string>
     <string name="display_cutout_force_fullscreen_no_apps">Немає додатків</string>
     <string name="display_cutout_force_fullscreen_restart_app">Будь ласка, перезавантажте додаток, щоб застосувати зміни.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Чорний фон</string>
+    <string name="black_bg_summary">Використовуйте абсолютно чорний фон, коли ввімкнено темний режим</string>
 </resources>

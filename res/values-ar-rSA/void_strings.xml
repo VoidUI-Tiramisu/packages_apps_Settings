@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">تجاهل ثقب الكاميرا</string>
     <string name="display_cutout_force_fullscreen_no_apps">لا توجد تطبيقات</string>
     <string name="display_cutout_force_fullscreen_restart_app">الرجاء إعادة تشغيل التطبيق لتطبيق التغييرات.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">الخلفية السوداء</string>
+    <string name="black_bg_summary">استخدام خلفية سوداء مطلقة عند تشغيل الوضع المظلم</string>
 </resources>

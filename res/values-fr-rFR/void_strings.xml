@@ -31,4 +31,7 @@
     <string name="display_cutout_force_fullscreen_summary">Forcer les applications à ignorer l\'espace d\'encoche</string>
     <string name="display_cutout_force_fullscreen_no_apps">Aucune application</string>
     <string name="display_cutout_force_fullscreen_restart_app">Veuillez redémarrer l\'application pour appliquer les modifications.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Fond noir</string>
+    <string name="black_bg_summary">Utiliser un fond noir absolu lorsque le mode sombre est activé</string>
 </resources>
