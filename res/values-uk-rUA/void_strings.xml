@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Версія VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Супроводжуючий пристрою</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Ігровий Простір</string>
+    <string name="game_space_summary">Покращуйте свій ігровий досвід</string>
+    <!-- reTicker -->
+    <string name="reticker_title">Новий стиль повідомлень</string>
+    <string name="reticker_summary">Замініть спливаючі сповіщення тонкою та менш інвазивною версією оновлених повідомлень</string>
+    <string name="reticker_colored_title">Використовувати кольоровий фон додатка</string>
+    <string name="reticker_colored_summary">Замініть колір фону оновленого сповіщення за допомогою основного кольору додатка</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Панель навігації</string>
+    <string name="immersive_navigation_title">Повноекранна навігація</string>
+    <string name="immersive_navigation_summary">Приховати жести та навігаційну панель заповнення.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Повноекранні додатки</string>
+    <string name="display_cutout_force_fullscreen_summary">Змусити додатки ігнорувати виріз</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Немає додатків</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Будь ласка, перезавантажте додаток, щоб застосувати зміни.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Чорний фон</string>
+    <string name="black_bg_summary">Використовуйте абсолютно чорний фон, коли ввімкнено темний режим</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Скопійовано в буфер обміну</string>
+    <string name="longpress_to_clipboard">Тривале натискання для копіювання</string>
+</resources>

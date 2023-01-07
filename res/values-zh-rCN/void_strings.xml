@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI 发布版本</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">VoidUI 管理员</string>
+    <!-- Game Space -->
+    <string name="game_space_title">游戏空间</string>
+    <string name="game_space_summary">增强您的游戏体验</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">用经过重新设计的、侵入性较小的 Ticker 取代浮动通知</string>
+    <string name="reticker_colored_title">使用应用程序颜色作为背景</string>
+    <string name="reticker_colored_summary">使用通知应用的主颜色替换 reTicker 背景颜色</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">导航栏</string>
+    <string name="immersive_navigation_title">沉浸式导航栏</string>
+    <string name="immersive_navigation_summary">隐藏手势药丸和导航栏的垫高。</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">全屏应用</string>
+    <string name="display_cutout_force_fullscreen_summary">应用强制忽略屏幕开孔</string>
+    <string name="display_cutout_force_fullscreen_no_apps">没有应用</string>
+    <string name="display_cutout_force_fullscreen_restart_app">请重新启动应用程序以应用更改。</string>
+    <!-- Black background -->
+    <string name="black_bg_title">纯黑背景</string>
+    <string name="black_bg_summary">当黑暗模式开启时使用纯黑色背景</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">谷歌应用商店
+应用资料：如果应用是用户安装的，打开谷歌应该商店</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">复制到剪贴板</string>
+    <string name="longpress_to_clipboard">长按复制</string>
+</resources>
