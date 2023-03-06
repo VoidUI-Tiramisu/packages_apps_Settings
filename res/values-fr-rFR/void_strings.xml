@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Version de VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Mainteneurs des appareils</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Espace de jeu</string>
+    <string name="game_space_summary">Améliore votre expérience de jeu</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Remplacer les notifications flottantes par une version mince et moins invasive du ticker redessiné</string>
+    <string name="reticker_colored_title">Utiliser l\'arrière-plan coloré de l\'application</string>
+    <string name="reticker_colored_summary">Remplacer la couleur d\'arrière-plan de reTicker par la couleur principale de l\'application de notification</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Barre de navigation</string>
+    <string name="immersive_navigation_title">Navigation immersive</string>
+    <string name="immersive_navigation_summary">Masquer la pilule des gestes et le remplissage de la barre de navigation.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Applications en plein écran</string>
+    <string name="display_cutout_force_fullscreen_summary">Forcer les applications à ignorer l\'espace d\'encoche</string>
+    <string name="display_cutout_force_fullscreen_no_apps">Aucune application</string>
+    <string name="display_cutout_force_fullscreen_restart_app">Veuillez redémarrer l\'application pour appliquer les modifications.</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Copié dans le presse-papiers</string>
+    <string name="longpress_to_clipboard">Appuyez longuement pour copier</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">Afficher l\'icône du type de Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Afficher le type de Wi-Fi dans l\'indicateur de signal Wi-Fi</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">Modèle de vibration de la sonnerie</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Personnalisé</string>
+    <string name="custom_vibration_pattern_title">Modèle personnalisé</string>
+    <string name="custom_vibration_pattern_summary">Définir un modèle de vibration personnalisé</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Volume de l\'application</string>
+    <string name="app_volume_title">Contrôle du volume par application</string>
+    <string name="app_volume_summary">Possibilité de définir des niveaux de volume différents pour chaque application</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignorer le drapeau de la fenêtre sécurisée</string>
+    <string name="ignore_window_secure_summary">Supprimez les limites de capture et d\'enregistrement d\'écran pour toutes les applications. Cela peut être pratique dans certains cas, mais peut entraîner des fuites dans la vie privée.</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Niveaux du volume</string>
+    <string name="volume_steps_summary">Personnaliser les niveaux de volume</string>
+    <string name="volume_steps_alarm_title">Niveaux du volume : Alarme</string>
+    <string name="volume_steps_dtmf_title">Niveau du volume : DTMF</string>
+    <string name="volume_steps_music_title">Niveau du volume : Médias</string>
+    <string name="volume_steps_notification_title">Niveaux du volume : Notification</string>
+    <string name="volume_steps_ring_title">Niveaux du volume : Sonnerie</string>
+    <string name="volume_steps_system_title">Niveaux du volume : Système</string>
+    <string name="volume_steps_voice_call_title">Niveaux du volume : Appel Vocal</string>
+    <string name="volume_steps_reset">Réinitialiser</string>
+</resources>
