@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">VoidUI 發布版本</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">VoidUI 管理員</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">導航欄</string>
+    <string name="immersive_navigation_title">Immersive Navigation</string>
+    <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">谷歌應用商店
+應用資料：如果應用是用戶安裝的，打開谷歌應該商店</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">文字已複製到剪貼板</string>
+    <string name="longpress_to_clipboard">Long-press to copy</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
+    <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignore secure window flag</string>
+    <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">Ringtone vibration pattern</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">自由</string>
+    <string name="custom_vibration_pattern_title">Custom pattern</string>
+    <string name="custom_vibration_pattern_summary">Set a custom vibration pattern</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">全屏應用</string>
+    <string name="display_cutout_force_fullscreen_summary">應用強制忽略屏幕開孔</string>
+    <string name="search">搜索</string>
+    <string name="search_apps">搜索應用程序</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+    <string name="app_volume_title">Per-app volume control</string>
+    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+    <!-- Game Space -->
+    <string name="game_space_title">遊戲空間</string>
+    <string name="game_space_summary">增強您的遊戲體驗</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">以更精簡、更無侵入性的方式來取代傳統彈出式通知</string>
+    <string name="reticker_colored_title">背景採用應用程式主色調</string>
+    <string name="reticker_colored_summary">將 reTicker 背景色替換為通知應用的主色</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">音量級別</string>
+    <string name="volume_steps_summary">自定義音量階數</string>
+    <string name="volume_steps_alarm_title">音量級別：鬧鐘</string>
+    <string name="volume_steps_dtmf_title">音量級別：雙音多頻</string>
+    <string name="volume_steps_music_title">音量級別：媒體</string>
+    <string name="volume_steps_notification_title">音量級別：通知</string>
+    <string name="volume_steps_ring_title">音量級別: 鈴聲</string>
+    <string name="volume_steps_system_title">音量級別：系統</string>
+    <string name="volume_steps_voice_call_title">音量級別：語音通話</string>
+    <string name="volume_steps_reset">重置</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Always on display schedule</string>
+    <string name="always_on_display_schedule_sunset">晚霞</string>
+    <string name="always_on_display_schedule_sunrise">Sunrise</string>
+    <string name="always_on_display_schedule_mixed_sunset">Turns on from sunset till a time</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Turns on from a time till sunrise</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE CA</string>
+    <string name="force_lte_ca_summary">Force LTE carrier aggregation to work</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
+    <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation bar</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
+    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">在快速設置的底部顯示每日數據使用情況</string>
+    <string name="qs_footer_datausage_summary">在快速設置的底部顯示流量使用情況</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Pure black</string>
+    <string name="black_bg_summary">Pure black background for dark theme</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Theming settings</string>
+    <string name="monet_settings_sammary">A few extra settings to customize monet engine</string>
+    <string name="theme_style_title">Theme style</string>
+    <string name="theme_style_tonal_spot">Tonal Spot (Default)</string>
+    <string name="theme_style_vibrant">Vibrant</string>
+    <string name="theme_style_expressive">Expressive</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">彩虹</string>
+    <string name="theme_style_fruit_salad">Fruit Salad</string>
+    <string name="theme_style_muted">Muted</string>
+    <string name="theme_style_content">Content</string>
+    <string name="color_source_title">Color source</string>
+    <string name="color_source_both">Both (Default)</string>
+    <string name="color_source_home">Home wallpaper</string>
+    <string name="color_source_lock">Lock wallpaper</string>
+    <string name="color_source_preset">Preset</string>
+    <string name="accent_color_title">Accent Color</string>
+    <string name="accent_color_summary">Override default accent color</string>
+    <string name="accent_background_title">Accent background</string>
+    <string name="accent_background_summary">Choose a different accent color for background</string>
+    <string name="bg_color_title">Background Color</string>
+    <string name="bg_color_summary">Override default background accent color</string>
+    <string name="luminance_factor_title">Luminance</string>
+    <string name="luminance_factor_summary">Higher values produce brighter colors</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Higher values produce stronger colors</string>
+    <string name="tint_background_title">Tint Background</string>
+    <string name="tint_background_summary">Make Luminance and Chroma selection affect background colors as well</string>
+</resources>

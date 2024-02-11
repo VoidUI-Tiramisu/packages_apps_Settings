@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">Phiên bản phát hành Voidui</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">Người duy trì</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Thanh điều hướng</string>
+    <string name="immersive_navigation_title">Điều hướng toàn màn hình</string>
+    <string name="immersive_navigation_summary">Ẩn viên cử chỉ và phần đệm thanh điều hướng.</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Đã sao chép vào khay nhớ tạm</string>
+    <string name="longpress_to_clipboard">Nhấn giữ để sao chép</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">Hiện biểu tượng kiểu Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">Hiện biểu tượng kiểu Wi-Fi trong tín hiệu Wi-Fi</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignore secure window flag</string>
+    <string name="ignore_window_secure_summary">Loại bỏ giới hạn ảnh chụp màn hình và ghi màn hình cho tất cả các ứng dụng. Điều này có thể thuận tiện trong một số trường hợp nhưng có thể dẫn đến rò rỉ quyền riêng tư.</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">Ringtone vibration pattern</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Custom</string>
+    <string name="custom_vibration_pattern_title">Custom pattern</string>
+    <string name="custom_vibration_pattern_summary">Set a custom vibration pattern</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Ứng dụng toàn màn hình</string>
+    <string name="display_cutout_force_fullscreen_summary">Buộc các ứng dụng bỏ qua không gian khuyết</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="search_apps">Tìm ứng dụng</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+    <string name="app_volume_title">Per-app volume control</string>
+    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Không gian trò chơi</string>
+    <string name="game_space_summary">Cải thiện trải nghiệm chơi game</string>
+    <!-- reTicker -->
+    <string name="reticker_title">Thông báo nổi kiểu mới</string>
+    <string name="reticker_summary">Thay thế thông báo nổi bằng thông báo kiểu mới được thiết kế mỏng và chiếm ít diện tích hơn</string>
+    <string name="reticker_colored_title">Sử dụng nền màu ứng dụng</string>
+    <string name="reticker_colored_summary">Thay thế màu nền thông báo bằng màu chính của ứng dụng thông báo</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Các bước âm lượng</string>
+    <string name="volume_steps_summary">Tùy chỉnh các bước âm lượng</string>
+    <string name="volume_steps_alarm_title">Các bước âm lượng: Báo thức</string>
+    <string name="volume_steps_dtmf_title">Các bước âm lượng: DTMF</string>
+    <string name="volume_steps_music_title">Các bước âm lượng: Media</string>
+    <string name="volume_steps_notification_title">Các bước âm lượng: Thông báo</string>
+    <string name="volume_steps_ring_title">Các bước âm lượng: Chuông báo</string>
+    <string name="volume_steps_system_title">Các bước âm lượng: Hệ thống</string>
+    <string name="volume_steps_voice_call_title">Các bước âm lượng: Cuộc gọi thoại</string>
+    <string name="volume_steps_reset">Thiết lập lại</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Always on display schedule</string>
+    <string name="always_on_display_schedule_sunset">Sunset</string>
+    <string name="always_on_display_schedule_sunrise">Sunrise</string>
+    <string name="always_on_display_schedule_mixed_sunset">Turns on from sunset till a time</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Turns on from a time till sunrise</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE CA</string>
+    <string name="force_lte_ca_summary">Force LTE carrier aggregation to work</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Đảo ngược bố cục thanh điều hướng</string>
+    <string name="navbar_invert_info">Hoán đổi nút \"Quay về\" và \"Gần đây\" trên thanh điều hướng</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
+    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Sử dụng dữ liệu hàng ngày ở cuối QS</string>
+    <string name="qs_footer_datausage_summary">Hiển thị tóm tắt sử dụng dữ liệu hàng ngày cuối cài đặt nhanh</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Pure black</string>
+    <string name="black_bg_summary">Pure black background for dark theme</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Theming settings</string>
+    <string name="monet_settings_sammary">A few extra settings to customize monet engine</string>
+    <string name="theme_style_title">Theme style</string>
+    <string name="theme_style_tonal_spot">Tonal Spot (Default)</string>
+    <string name="theme_style_vibrant">Vibrant</string>
+    <string name="theme_style_expressive">Expressive</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Rainbow</string>
+    <string name="theme_style_fruit_salad">Fruit Salad</string>
+    <string name="theme_style_muted">Muted</string>
+    <string name="theme_style_content">Content</string>
+    <string name="color_source_title">Color source</string>
+    <string name="color_source_both">Both (Default)</string>
+    <string name="color_source_home">Home wallpaper</string>
+    <string name="color_source_lock">Lock wallpaper</string>
+    <string name="color_source_preset">Preset</string>
+    <string name="accent_color_title">Accent Color</string>
+    <string name="accent_color_summary">Override default accent color</string>
+    <string name="accent_background_title">Accent background</string>
+    <string name="accent_background_summary">Choose a different accent color for background</string>
+    <string name="bg_color_title">Background Color</string>
+    <string name="bg_color_summary">Override default background accent color</string>
+    <string name="luminance_factor_title">Luminance</string>
+    <string name="luminance_factor_summary">Higher values produce brighter colors</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Higher values produce stronger colors</string>
+    <string name="tint_background_title">Tint Background</string>
+    <string name="tint_background_summary">Make Luminance and Chroma selection affect background colors as well</string>
+</resources>

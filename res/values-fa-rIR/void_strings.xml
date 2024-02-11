@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About device screen, VoidUI Release Version -->
+    <string name="voidui_release_version">نسخه انتشار VoidUI</string>
+    <!-- VoidUI Maintainer -->
+    <string name="VoidUI_maintainer">توسعه دهنده دستگاه</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">نوار ناوبری</string>
+    <string name="immersive_navigation_title">ناوبری معلق</string>
+    <string name="immersive_navigation_summary">مخفی کردن خط ناوبری و فاصله نوار ناوبری.</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">فروشگاه گوگل</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">در کلیپ‌بورد کپی شد</string>
+    <string name="longpress_to_clipboard">برای کپی کردن به صورت طولانی لمس کنید</string>
+    <!-- Wi-Fi Icon Standard -->
+    <string name="show_wifi_standard_icon_title">نمایش نوع آیکون Wi-Fi</string>
+    <string name="show_wifi_standard_icon_summary">نمایش نوع و نمایشگر سیگنال Wi-Fi</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignore secure window flag</string>
+    <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
+    <!-- Vibration patterns -->
+    <string name="vibration_pattern_title">Ringtone vibration pattern</string>
+    <string name="pattern_dzzz_dzzz">dzzz-dzzz</string>
+    <string name="pattern_dzzz_da">dzzz-da</string>
+    <string name="pattern_mm_mm_mm">mm-mm-mm</string>
+    <string name="pattern_da_da_dzzz">da-da-dzzz</string>
+    <string name="pattern_da_dzzz_da">da-dzzz-da</string>
+    <string name="pattern_custom">Custom</string>
+    <string name="custom_vibration_pattern_title">Custom pattern</string>
+    <string name="custom_vibration_pattern_summary">Set a custom vibration pattern</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">برنامه های تمام صفحه</string>
+    <string name="display_cutout_force_fullscreen_summary">اجبار برنامه ها برای نادیده گرفتن شکاف صفحه</string>
+    <string name="search">جُستجو</string>
+    <string name="search_apps">جستجوی برنامه‌ها</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+    <string name="app_volume_title">Per-app volume control</string>
+    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+    <!-- Game Space -->
+    <string name="game_space_title">فضای بازی</string>
+    <string name="game_space_summary">تجربه بازی خود را بهبود بدهید</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">اعلان فوری را با نسخه باریک و کمتر تهاجمی ticker بازطراحی شده جایگزین کنید</string>
+    <string name="reticker_colored_title">استفاده از پس زمینه رنگی برنامه</string>
+    <string name="reticker_colored_summary">جایگزین کردن رنگ پس زمینه reTicker با استفاده از رنگ اصلی اعلان برنامه</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Volume steps</string>
+    <string name="volume_steps_summary">Customize volume steps</string>
+    <string name="volume_steps_alarm_title">مراحل ولوم: زنگ هشدار</string>
+    <string name="volume_steps_dtmf_title">مراحل حجم: DTMF</string>
+    <string name="volume_steps_music_title">مراحل حجم: رسانه</string>
+    <string name="volume_steps_notification_title">مراحل حجم: اعلان</string>
+    <string name="volume_steps_ring_title">مراحل حجم: زنگ</string>
+    <string name="volume_steps_system_title">مراحل حجم: سیستم</string>
+    <string name="volume_steps_voice_call_title">مراحل صدا: تماس صوتی</string>
+    <string name="volume_steps_reset">بازنشانی</string>
+    <!-- AOD Schedule -->
+    <string name="always_on_display_schedule_title">Always on display schedule</string>
+    <string name="always_on_display_schedule_sunset">Sunset</string>
+    <string name="always_on_display_schedule_sunrise">Sunrise</string>
+    <string name="always_on_display_schedule_mixed_sunset">Turns on from sunset till a time</string>
+    <string name="always_on_display_schedule_mixed_sunrise">Turns on from a time till sunrise</string>
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE CA</string>
+    <string name="force_lte_ca_summary">Force LTE carrier aggregation to work</string>
+    <!-- Swap buttons in 3 buttons gestures -->
+    <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
+    <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation bar</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
+    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <!-- Data usage info in QS footer -->
+    <string name="qs_footer_datausage_title">Daily data usage in QS footer</string>
+    <string name="qs_footer_datausage_summary">Display daily data usage summary in quick settings footer</string>
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Pure black</string>
+    <string name="black_bg_summary">Pure black background for dark theme</string>
+    <!-- Monet settings -->
+    <string name="monet_settings_title">Theming settings</string>
+    <string name="monet_settings_sammary">A few extra settings to customize monet engine</string>
+    <string name="theme_style_title">Theme style</string>
+    <string name="theme_style_tonal_spot">Tonal Spot (Default)</string>
+    <string name="theme_style_vibrant">Vibrant</string>
+    <string name="theme_style_expressive">Expressive</string>
+    <string name="theme_style_spritz">Spritz</string>
+    <string name="theme_style_rainbow">Rainbow</string>
+    <string name="theme_style_fruit_salad">Fruit Salad</string>
+    <string name="theme_style_muted">Muted</string>
+    <string name="theme_style_content">Content</string>
+    <string name="color_source_title">Color source</string>
+    <string name="color_source_both">Both (Default)</string>
+    <string name="color_source_home">Home wallpaper</string>
+    <string name="color_source_lock">Lock wallpaper</string>
+    <string name="color_source_preset">Preset</string>
+    <string name="accent_color_title">Accent Color</string>
+    <string name="accent_color_summary">Override default accent color</string>
+    <string name="accent_background_title">Accent background</string>
+    <string name="accent_background_summary">Choose a different accent color for background</string>
+    <string name="bg_color_title">Background Color</string>
+    <string name="bg_color_summary">Override default background accent color</string>
+    <string name="luminance_factor_title">Luminance</string>
+    <string name="luminance_factor_summary">Higher values produce brighter colors</string>
+    <string name="chroma_factor_title">Chroma</string>
+    <string name="chroma_factor_summary">Higher values produce stronger colors</string>
+    <string name="tint_background_title">Tint Background</string>
+    <string name="tint_background_summary">Make Luminance and Chroma selection affect background colors as well</string>
+</resources>
